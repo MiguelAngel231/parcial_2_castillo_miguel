@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+  font-size: 2.4rem;
+  color:magenta;
+  font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+}
+h3 {
+  font-size: 1.8rem;
+  color:chocolate;
+  font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+}
+p {
+  font-size: 1.0rem;
+  color:black;
+  font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"
+}
+ol {
+  font-size: 1.0rem;
+  color:lime;
+  font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"
+}
+ul {
+  font-size: 1.0rem;
+  color:crimson;
+  font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"
+}
+a {
+  font-size: 1.0rem;
+  color:chocolate;
+  font-family: Helvetica, Arial, sans-serif;
+}
